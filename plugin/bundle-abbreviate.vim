@@ -2,6 +2,7 @@
 if exists('g:loaded_bundle_abbreviate')
   finish
 endif
+let g:loaded_bundle_abbreviate=1
 " -------------------------------------------------------------------------- }}}
 " {{{ Automatic spelling and typo corrections.
 " email address
