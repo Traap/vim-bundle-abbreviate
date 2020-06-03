@@ -1,4 +1,4 @@
-" {{{ bundle-abbreviate.vim 
+" {{{ bundle-abbreviate.vim
 if exists('g:loaded_bundle_abbreviate')
   finish
 endif
@@ -10,6 +10,7 @@ iabbrev efk            gary.howard@fresenius-kabi.com
 iabbrev egh            gary.a.howard@mac.com
 
 " Items I type wrong alot.
+iabbrev ealier         earlier
 iabbrev developmetn    development
 iabbrev heigth         heigth
 iabbrev liek           likewisee
