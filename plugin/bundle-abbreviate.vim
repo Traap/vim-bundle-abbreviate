@@ -11,6 +11,9 @@ iabbrev egh            gary.a.howard@mac.com
 
 " Items I type wrong alot.
 iabbrev ealier         earlier
+iabbrev equalavant     equivalent
+iabbrev equalivant     equivalent
+iabbrev equlvalent     equivalent
 iabbrev developmetn    development
 iabbrev heigth         heigth
 iabbrev liek           likewisee
