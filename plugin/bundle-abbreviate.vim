@@ -10,6 +10,7 @@ iabbrev efk            gary.howard@fresenius-kabi.com
 iabbrev egh            gary.a.howard@mac.com
 
 " Items I type wrong alot.
+iabbrev credenial      credential
 iabbrev ealier         earlier
 iabbrev equalavant     equivalent
 iabbrev equalivant     equivalent
