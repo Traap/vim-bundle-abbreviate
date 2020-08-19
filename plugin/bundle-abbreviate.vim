@@ -26,6 +26,7 @@ iabbrev pritn          print
 iabbrev reprot         report
 iabbrev retrun         return
 iabbrev sectoin        section
+iabbrev stroy          story
 iabbrev subsectoin     subsection
 iabbrev subsubsectoin  subsubsection
 iabbrev teh            the
