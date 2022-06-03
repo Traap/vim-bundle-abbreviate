@@ -6,7 +6,7 @@ let g:loaded_bundle_abbreviate=1
 " -------------------------------------------------------------------------- }}}
 " {{{ Automatic spelling and typo corrections.
 " email address
-iabbrev efk            gary.howard@fresenius-kabi.com
+iabbrev eac            gary@allan-consulting.com
 iabbrev egh            gary.a.howard@mac.com
 
 " Items I type wrong alot.
@@ -15,6 +15,7 @@ iabbrev ealier         earlier
 iabbrev equalavant     equivalent
 iabbrev equalivant     equivalent
 iabbrev equlvalent     equivalent
+iabbrev envioronment   environment
 iabbrev developmetn    development
 iabbrev heigth         heigth
 iabbrev liek           likewisee
