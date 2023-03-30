@@ -1,10 +1,13 @@
 " {{{ bundle-abbreviate.vim
+
 if exists('g:loaded_bundle_abbreviate')
   finish
 endif
 let g:loaded_bundle_abbreviate=1
+
 " -------------------------------------------------------------------------- }}}
 " {{{ Automatic spelling and typo corrections.
+
 " email address
 iabbrev eac            gary@allan-consulting.com
 iabbrev egh            gary.a.howard@mac.com
@@ -18,7 +21,7 @@ iabbrev equlvalent     equivalent
 iabbrev envioronment   environment
 iabbrev developmetn    development
 iabbrev heigth         heigth
-iabbrev liek           likewisee
+iabbrev liek           like
 iabbrev liekwise       likewise
 iabbrev manditory      mandatory
 iabbrev moer           more
@@ -39,4 +42,7 @@ iabbrev weihg          weigh
 iabbrev widht          width
 iabbrev wiegh          weigh
 iabbrev wiegth         weigth
+iabbrev kvj            KJV
+iabbrev KVJ            KJV
+
 " ------------------------------------------------------------------------- }}}
